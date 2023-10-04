@@ -11,3 +11,5 @@
 4. **Eigenvalues and Eigenvectors**;
 5. **Inner Product Spaces**;
 6. **Linear Transformations**
+
+Note: Handwriting recognition is enabled, this means that you can use ctrl + f to search for text.
