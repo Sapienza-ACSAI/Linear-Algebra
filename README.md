@@ -13,3 +13,5 @@
 6. **Linear Transformations**
 
 Note: Handwriting recognition is enabled, this means that you can use ctrl + f to search for text.
+
+**Feel free to contact me (Nil) on any platform if there's something wrong, missing, or if you have any suggestions so that I can fix it for future students.**
